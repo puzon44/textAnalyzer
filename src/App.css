@@ -14,6 +14,18 @@
   width: 500px;
 }
 
+.lower{
+  margin-left: 20px;
+}
+
+h3{
+  margin-top: 12px;
+}
+
+.widthOf{
+  width: 80%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
